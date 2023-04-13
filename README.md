@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @smacti
-- 👀 I’m interested in Blockchain tech, Algo trading & AI/ML/DL.
+- 👀 I’m interested in platforms that can generate revenue for all participants. 
 - 🌱 I’m currently learning Javascript & Wechat MP
-- 💞️ I’m looking to collaborate on Blockchain, Algo Trading & AI.
 - 📫 How to reach me skystopkhk@gmail.com
 
 <!---
